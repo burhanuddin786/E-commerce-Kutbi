@@ -1,0 +1,66 @@
+html,
+body {
+    height: 100%;
+}
+
+.full-width {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+
+/* style for admin */
+
+.frameLogin {
+    background-color: #ececec;
+    height: auto;
+    position: relative;
+    top: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.imgLogin {
+    width: 100px;
+    height: 100px;
+}
+
+
+/* .wrapperAdmin{
+    position: relative;
+    min-height: 100%;
+} */
+
+.frameForm {
+    background-color: #ececec;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.form-control {
+    border: 1px solid rgb(230, 230, 230) !important;
+}
+
+.content {
+    padding-bottom: 60px;
+}
+
+.adminFooter {
+    background-color: #e4e4e4;
+    color: #777;
+    text-align: center;
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    position: absolute;
+    bottom: 0;
+}
+
+
+/* Testing */
